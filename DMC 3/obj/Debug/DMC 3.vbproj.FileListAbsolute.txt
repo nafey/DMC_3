@@ -1,0 +1,31 @@
+C:\Users\basit\Documents\Visual Studio 2010\Projects\DMC 3\Backup\DMC 3\bin\Debug\DMC 3.exe.config
+C:\Users\basit\Documents\Visual Studio 2010\Projects\DMC 3\Backup\DMC 3\obj\Debug\DMC 3.vbproj.ResolveComReference.cache
+C:\Users\basit\Documents\Visual Studio 2010\Projects\DMC 3\Backup\DMC 3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\basit\Documents\Visual Studio 2010\Projects\DMC 3\Backup\DMC 3\obj\Debug\DMC_3.frmBattleZone.resources
+C:\Users\basit\Documents\Visual Studio 2010\Projects\DMC 3\Backup\DMC 3\obj\Debug\DMC_3.frmDeckAnalyser.resources
+C:\Users\basit\Documents\Visual Studio 2010\Projects\DMC 3\Backup\DMC 3\obj\Debug\DMC_3.frmDeckMaker.resources
+C:\Users\basit\Documents\Visual Studio 2010\Projects\DMC 3\Backup\DMC 3\obj\Debug\DMC_3.MultipleImageDisplayer.resources
+C:\Users\basit\Documents\Visual Studio 2010\Projects\DMC 3\Backup\DMC 3\obj\Debug\DMC_3.Resources.resources
+C:\Users\basit\Documents\Visual Studio 2010\Projects\DMC 3\Backup\DMC 3\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\basit\Documents\Visual Studio 2010\Projects\DMC 3\Backup\DMC 3\obj\Debug\GenerateResource.write.1.tlog
+E:\Files\DMC 3\Backup\DMC 3\bin\Debug\DMC 3.exe.config
+E:\Files\DMC 3\Backup\DMC 3\obj\Debug\ResolveAssemblyReference.cache
+E:\Files\DMC 3\Backup\DMC 3\obj\Debug\DMC_3.frmBattleZone.resources
+E:\Files\DMC 3\Backup\DMC 3\obj\Debug\DMC_3.frmDeckAnalyser.resources
+E:\Files\DMC 3\Backup\DMC 3\obj\Debug\DMC_3.frmDeckMaker.resources
+E:\Files\DMC 3\Backup\DMC 3\obj\Debug\DMC_3.MultipleImageDisplayer.resources
+E:\Files\DMC 3\Backup\DMC 3\obj\Debug\DMC_3.Resources.resources
+E:\Files\DMC 3\Backup\DMC 3\obj\Debug\GenerateResource.read.1.tlog
+E:\Files\DMC 3\Backup\DMC 3\obj\Debug\GenerateResource.write.1.tlog
+E:\Files\DMC 3\Backup\DMC 3\bin\Debug\DMCCardDatabase.mdb
+E:\Files\DMC 3\Backup\DMC 3\bin\Debug\DMC 3.exe.manifest
+E:\Files\DMC 3\Backup\DMC 3\bin\Debug\DMC 3.application
+E:\Files\DMC 3\Backup\DMC 3\bin\Debug\DMC 3.exe
+E:\Files\DMC 3\Backup\DMC 3\bin\Debug\DMC 3.pdb
+E:\Files\DMC 3\Backup\DMC 3\bin\Debug\DMC 3.xml
+E:\Files\DMC 3\Backup\DMC 3\obj\Debug\DMC 3.TrustInfo.xml
+E:\Files\DMC 3\Backup\DMC 3\obj\Debug\DMC 3.exe.manifest
+E:\Files\DMC 3\Backup\DMC 3\obj\Debug\DMC 3.application
+E:\Files\DMC 3\Backup\DMC 3\obj\Debug\DMC 3.exe
+E:\Files\DMC 3\Backup\DMC 3\obj\Debug\DMC 3.xml
+E:\Files\DMC 3\Backup\DMC 3\obj\Debug\DMC 3.pdb
